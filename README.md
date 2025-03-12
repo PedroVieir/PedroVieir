@@ -5,8 +5,9 @@ Sou um desenvolvedor em formação, apaixonado por tecnologia e sempre em busca 
 Pesquisador ávido de avanços científicos e estrategista de investimentos nas horas vagas. Aprendizado constante é meu lema.
 
 <ul>
-    <li>  🎓 Estudante de Análise e Desenvolvimento de Sistemas</li>
+    <li>  🎓 Cursando Engenharia de Software</li>
     <li>  🎓 Técnico em Desenvolvimento WEB</li>
+    <li>  🎓 Formado em Análise e Desenvolvimento de Sistemas</li>
     <li>  🤝 Em busca de oportunidades para crescer</li>
     <li>  🤥 Interessado em Desenvolvimento WEB e Mobile</li>
     <li>  💻 Estudando Java e frameworks</li>
