@@ -36,7 +36,7 @@ Busco **oportunidades para evoluir profissionalmente**, aplicando minha base só
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedrovieir&repo=catalogo-pecas&theme=react&bg_color=1F222E&title_color=EC7C34&icon_color=EC7C34&text_color=FFFFFF&hide_border=true" />
 </a>
 
-<a href="https://github.com/pedrovieir/todo-plus" target="_blank">
+<a href="https://github.com/PedroVieir/Projeto-To-Do" target="_blank">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedrovieir&repo=todo-plus&theme=react&bg_color=1F222E&title_color=EC7C34&icon_color=EC7C34&text_color=FFFFFF&hide_border=true" />
 </a>
 
