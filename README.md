@@ -6,8 +6,6 @@
 
 ---
 
-## 🇧🇷 **Português**
-
 ##  Olá, eu sou o Pedro Henrique  
 ### Desenvolvedor em formação | Explorador de código | Criador de soluções digitais
 
@@ -115,8 +113,6 @@ Repositório de **projetos e desafios** realizados durante cursos da **Rocketsea
 </div>
 
 ---
-
-## 🇺🇸 **English**
 
 ##  Hi, I'm Pedro Henrique  
 ### Software Engineer in training | Code Explorer | Digital Solutions Creator
