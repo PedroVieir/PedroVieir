@@ -32,12 +32,16 @@ Busco **oportunidades para evoluir profissionalmente**, aplicando minha base só
 
 <div align="center">
 
-<a href="https://github.com/pedrovieir/catalogo-pecas" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=pedrovieir&repo=catalogo-pecas&theme=react&bg_color=1F222E&title_color=EC7C34&icon_color=EC7C34&text_color=FFFFFF&hide_border=true" />
+<a href="https://github.com/PedroVieir/ABR-Trackload" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroVieir&repo=ABR-Trackload&theme=react&bg_color=1F222E&title_color=EC7C34&icon_color=EC7C34&text_color=FFFFFF&hide_border=true" />
 </a>
 
 <a href="https://github.com/PedroVieir/Projeto-To-Do" target="_blank">
-  <img src="https://projeto-to-do-six.vercel.app/&repo=Projeto-To-Do&theme=react&bg_color=1F222E&title_color=EC7C34&icon_color=EC7C34&text_color=FFFFFF&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroVieir&repo=Projeto-To-Do&theme=react&bg_color=1F222E&title_color=EC7C34&icon_color=EC7C34&text_color=FFFFFF&hide_border=true" />
+</a>
+
+<a href="https://github.com/PedroVieir/RocketSeat" target="_blank">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PedroVieir&repo=RocketSeat&theme=react&bg_color=1F222E&title_color=EC7C34&icon_color=EC7C34&text_color=FFFFFF&hide_border=true" />
 </a>
 
 </div>
@@ -73,8 +77,8 @@ Busco **oportunidades para evoluir profissionalmente**, aplicando minha base só
 
 <div align="center">
 
-![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrovieir&show_icons=true&theme=react&bg_color=1F222E&title_color=EC7C34&icon_color=EC7C34&text_color=FFFFFF&hide_border=true)
+![Pedro's GitHub stats](https://github-readme-stats.vercel.app/api?username=PedroVieir&show_icons=true&theme=react&bg_color=1F222E&title_color=EC7C34&icon_color=EC7C34&text_color=FFFFFF&hide_border=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrovieir&layout=compact&theme=react&bg_color=1F222E&title_color=EC7C34&text_color=FFFFFF&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PedroVieir&layout=compact&theme=react&bg_color=1F222E&title_color=EC7C34&text_color=FFFFFF&hide_border=true)
 
 </div>
