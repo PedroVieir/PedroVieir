@@ -8,7 +8,7 @@
 
 ## 🇧🇷 **Português**
 
-## 👋 Olá, eu sou o Pedro Henrique  
+##  Olá, eu sou o Pedro Henrique  
 ### Desenvolvedor em formação | Explorador de código | Criador de soluções digitais
 
 Sou um **desenvolvedor em formação**, apaixonado por tecnologia e pela arte de transformar ideias em sistemas funcionais.  
@@ -18,7 +18,7 @@ Busco **oportunidades para evoluir profissionalmente**, aplicando minha base só
 
 ---
 
-### 🧠 Tecnologias & Ferramentas
+###  Tecnologias & Ferramentas
 
 <div align="center">
 
@@ -37,7 +37,7 @@ Busco **oportunidades para evoluir profissionalmente**, aplicando minha base só
 
 ---
 
-### 💼 Projetos em destaque
+###  Projetos em destaque
 
 <div align="center">
 
@@ -57,42 +57,42 @@ Busco **oportunidades para evoluir profissionalmente**, aplicando minha base só
 
 ---
 
-### 🧩 Descrições dos Projetos
+###  Descrições dos Projetos
 
-#### 🚚 [ABR-TrackLoad](https://github.com/PedroVieir/ABR-Trackload)
+####  [ABR-TrackLoad](https://github.com/PedroVieir/ABR-Trackload)
 Sistema interno para **gerenciamento e upload de documentos de transporte**.  
-📦 **Stack:** Node.js, Express, React (Vite), ODBC, Multer, File System e API REST.  
-🔍 Foco em eficiência, organização e interface intuitiva para uso corporativo.
+ **Stack:** Node.js, Express, React (Vite), ODBC, Multer, File System e API REST.  
+ Foco em eficiência, organização e interface intuitiva para uso corporativo.
 
 ---
 
-#### ✅ [Projeto To-Do](https://github.com/PedroVieir/Projeto-To-Do)
+####  [Projeto To-Do](https://github.com/PedroVieir/Projeto-To-Do)
 Aplicação **Full Stack** com **CRUD completo**, autenticação JWT e design responsivo.  
-📱 Desenvolvida em **Node.js, Express, React, MongoDB e Tailwind CSS**.  
-🧠 Demonstra arquitetura **MVC**, autenticação e consumo de API.
+ Desenvolvida em **Node.js, Express, React, MongoDB e Tailwind CSS**.  
+ Demonstra arquitetura **MVC**, autenticação e consumo de API.
 
 ---
 
 #### 🚀 [RocketSeat Labs](https://github.com/PedroVieir/RocketSeat)
 Repositório de **projetos e desafios** realizados durante cursos da **Rocketseat**.  
-🧩 Miniaplicações em **JavaScript, Node.js e React**, explorando performance e componentização.  
-🎯 Voltado ao aprendizado contínuo e práticas modernas de desenvolvimento.
+ Miniaplicações em **JavaScript, Node.js e React**, explorando performance e componentização.  
+ Voltado ao aprendizado contínuo e práticas modernas de desenvolvimento.
 
 ---
 
-### 🎓 Formação
+###  Formação
 
-- 🎓 **Engenharia de Software** (em andamento)  
-- 🎓 **Análise e Desenvolvimento de Sistemas**  
-- 🎓 **Técnico em Desenvolvimento Web**
+-  **Engenharia de Software** (em andamento)  
+-  **Análise e Desenvolvimento de Sistemas**  
+-  **Técnico em Desenvolvimento Web**
 
 ---
 
-### 🤝 Contato
+###  Contato
 
-📧 **E-mail:** [pedro.vieira53@outlook.com](mailto:pedro.vieira53@outlook.com)  
-💼 **LinkedIn:** [linkedin.com/in/phc-vieira](https://www.linkedin.com/in/phc-vieira/)  
-💻 **GitHub:** [github.com/pedrovieir](https://github.com/pedrovieir)
+ **E-mail:** [pedro.vieira53@outlook.com](mailto:pedro.vieira53@outlook.com)  
+ **LinkedIn:** [linkedin.com/in/phc-vieira](https://www.linkedin.com/in/phc-vieira/)  
+ **GitHub:** [github.com/pedrovieir](https://github.com/pedrovieir)
 
 ---
 
@@ -105,7 +105,7 @@ Repositório de **projetos e desafios** realizados durante cursos da **Rocketsea
 
 ---
 
-### 📊 Estatísticas
+###  Estatísticas
 
 <div align="center">
 
@@ -118,7 +118,7 @@ Repositório de **projetos e desafios** realizados durante cursos da **Rocketsea
 
 ## 🇺🇸 **English**
 
-## 👋 Hi, I'm Pedro Henrique  
+##  Hi, I'm Pedro Henrique  
 ### Software Engineer in training | Code Explorer | Digital Solutions Creator
 
 I’m a **developer in training**, passionate about technology and the process of turning ideas into functional systems.  
@@ -128,7 +128,7 @@ I’m looking for **opportunities to grow professionally**, applying my backgrou
 
 ---
 
-### 🧠 Technologies & Tools
+###  Technologies & Tools
 
 <div align="center">
 
@@ -148,42 +148,42 @@ I’m looking for **opportunities to grow professionally**, applying my backgrou
 
 ---
 
-### 💼 Featured Projects
+###  Featured Projects
 
-#### 🚚 [ABR-TrackLoad](https://github.com/PedroVieir/ABR-Trackload)
+####  [ABR-TrackLoad](https://github.com/PedroVieir/ABR-Trackload)
 Internal system for **transport document management and upload**, integrated with the **AS400 (IBM i)** ERP.  
 📦 **Stack:** Node.js, Express, React (Vite), ODBC, Multer, File System, and REST API.  
 🔍 Focused on efficiency, document organization, and a clean industrial-friendly interface.
 
 ---
 
-#### ✅ [To-Do Project](https://github.com/PedroVieir/Projeto-To-Do)
+####  [To-Do Project](https://github.com/PedroVieir/Projeto-To-Do)
 **Full Stack** application featuring complete CRUD, JWT authentication, and responsive design.  
 📱 Built with **Node.js, Express, React, MongoDB, and Tailwind CSS**.  
 🧠 Demonstrates **MVC architecture**, secure authentication, and RESTful API consumption.
 
 ---
 
-#### 🚀 [RocketSeat Labs](https://github.com/PedroVieir/RocketSeat)
+####  [RocketSeat Labs](https://github.com/PedroVieir/RocketSeat)
 Collection of **projects and challenges** developed during **Rocketseat** courses.  
-🧩 Contains mini apps in **JavaScript, Node.js, and React**, focusing on componentization and modern practices.  
-🎯 Dedicated to continuous learning and experimentation with new technologies.
+ Contains mini apps in **JavaScript, Node.js, and React**, focusing on componentization and modern practices.  
+ Dedicated to continuous learning and experimentation with new technologies.
 
 ---
 
-### 🎓 Education
+###  Education
 
-- 🎓 **Software Engineering** (in progress)  
-- 🎓 **Systems Analysis and Development**  
-- 🎓 **Web Development Technician**
+-  **Software Engineering** (in progress)  
+-  **Systems Analysis and Development**  
+-  **Web Development Technician**
 
 ---
 
-### 🤝 Contact
+###  Contact
 
-📧 **Email:** [pedro.vieira53@outlook.com](mailto:pedro.vieira53@outlook.com)  
-💼 **LinkedIn:** [linkedin.com/in/phc-vieira](https://www.linkedin.com/in/phc-vieira/)  
-💻 **GitHub:** [github.com/pedrovieir](https://github.com/pedrovieir)
+ **Email:** [pedro.vieira53@outlook.com](mailto:pedro.vieira53@outlook.com)  
+ **LinkedIn:** [linkedin.com/in/phc-vieira](https://www.linkedin.com/in/phc-vieira/)  
+ **GitHub:** [github.com/pedrovieir](https://github.com/pedrovieir)
 
 ---
 
