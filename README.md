@@ -60,7 +60,7 @@ Busco **oportunidades para evoluir profissionalmente**, aplicando minha base só
 ### 🧩 Descrições dos Projetos
 
 #### 🚚 [ABR-TrackLoad](https://github.com/PedroVieir/ABR-Trackload)
-Sistema interno para **gerenciamento e upload de documentos de transporte**, integrado ao ERP **AS400 (IBM i)**.  
+Sistema interno para **gerenciamento e upload de documentos de transporte**.  
 📦 **Stack:** Node.js, Express, React (Vite), ODBC, Multer, File System e API REST.  
 🔍 Foco em eficiência, organização e interface intuitiva para uso corporativo.
 
