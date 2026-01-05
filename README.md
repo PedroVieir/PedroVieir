@@ -96,7 +96,6 @@ Repositório de **projetos e desafios** realizados durante cursos da **Rocketsea
 ---
 
 <div align="center">
-  <a href="https://instagram.com/pedrxx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:pedro.vieira53@outlook.com"><img src="https://img.shields.io/badge/-Outlook-0078D4?style=for-the-badge&logo=microsoftoutlook&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/phc-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
@@ -184,7 +183,6 @@ Collection of **projects and challenges** developed during **Rocketseat** course
 ---
 
 <div align="center">
-  <a href="https://instagram.com/pedrxx" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="mailto:pedrovieira1307@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/phc-vieira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 </div>
