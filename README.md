@@ -91,7 +91,7 @@ Repositório de **projetos e desafios** realizados durante cursos da **Rocketsea
 
  **E-mail:** [pedro.vieira53@outlook.com](mailto:pedro.vieira53@outlook.com)  
  **LinkedIn:** [linkedin.com/in/phc-vieira](https://www.linkedin.com/in/phc-vieira/)  
- **GitHub:** [github.com/pedrovieir](https://github.com/pedrovieir)
+ **Portfólio:** [https://vieiradev.vercel.app/)
 
 ---
 
